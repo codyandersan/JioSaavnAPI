@@ -50,7 +50,3 @@ An Unofficial JioSaavn API for downloading songs in 320kbps quality for free.
 ## ☁️ Host your own instance
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumitkolhe/jiosaavn-api)
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
